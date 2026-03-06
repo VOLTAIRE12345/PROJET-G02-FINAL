@@ -1,0 +1,21 @@
+# requirements.txt — Groupe G02
+# BERT fine-tuning pour IMDb — P02 Régularisation et Généralisation
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+
+# Optimisation des hyperparamètres
+optuna>=3.4.0
+
+# Machine Learning & Évaluation
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilitaires
+tqdm>=4.65.0
