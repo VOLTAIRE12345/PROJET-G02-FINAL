@@ -48,7 +48,7 @@ G02_Final/
 │   └── visualization.py       ← 7 figures pour le rapport
 │
 ├── notebooks/
-│   └── G02_BERT_IMDb_Colab.ipynb  ← Notebook exécutable sur Google Colab
+│   └── G02_BERT_IMDb.ipynb  ← Notebook exécutable sur Google Colab
 │
 ├── results/                   ← JSON des résultats (généré à l'exécution)
 └── figures/                   ← Figures PNG (générées à l'exécution)
@@ -60,8 +60,8 @@ G02_Final/
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/VOLTAIRE12345/Projet_ML_Opt_G02.git
-cd Projet_ML_Opt_G02
+git clone https://github.com/VOLTAIRE12345/PROJET-G02-FINAL.git
+cd PROJET-G02-FINAL 
 
 # Installer les dépendances
 pip install -r requirements.txt
